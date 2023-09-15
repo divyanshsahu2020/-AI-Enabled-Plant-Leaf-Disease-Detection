@@ -10,6 +10,7 @@ The frontend involved building of an interactive webpage using react, flask and 
 
 
 OUTPUT - A successful CNN model that records an accuracy of above 90%. 
+
 Link to webpage - https://leaf-detection-6756b.web.app/ 
 
 
