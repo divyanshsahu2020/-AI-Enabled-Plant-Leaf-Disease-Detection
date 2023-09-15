@@ -1,1 +1,2 @@
-# -AI-Enabled-Plant-Leaf-Disease-Detection
+# AI-Enabled-Plant-Leaf-Disease-Detection
+
